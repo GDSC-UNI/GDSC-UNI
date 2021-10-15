@@ -1,4 +1,4 @@
-![GDSC UNI banner](https://github.com/GDSC-UNI/GDSC-UNI/blob/main/GDSC-UNI-banner.png)
+![GDSC UNI banner](https://github.com/GDSC-UNI/GDSC-UNI/blob/main/blog_banner.png)
 
 <h2>Bienvenido a Google Developer Student Club - UNI </h2>
 
