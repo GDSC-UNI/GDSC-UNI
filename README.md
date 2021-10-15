@@ -6,18 +6,36 @@
 Google. Los estudiantes de todos los programas de pregrado o postgrado con interés en crecer como desarrolladores son bienvenidos. Al unirse
 a nosotros, aumentarán sus conocimientos en un entorno de aprendizaje entre pares y crearán soluciones para las empresas y comunidades locales</p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GDSC-UNI.GDSC-UNI"> 
+  <img src="https://img.shields.io/github/followers/GDSC-UNI?label=Follow&style=social)](https://github.com/GDSC-UNI)">
+</p> 
 
 ✨Visite nuestra [página web](https://gdsc.community.dev/universidad-nacional-de-ingenieria/)!
 
 <h2> 🤗 Conectese con nosotros en ... </h2>
-
+<p align="center">
 <a href="#">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:gdsc.uni.pe@gmail.com">![gdsc.uni.pe@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="#">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 <a href="#">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 <a href="#">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+</p>
 
 
+<h2>Nuestras estadísticas</h2>
+  <p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=GDSC-UNI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=GDSC-UNI&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
+</p>
+<hr>
+<div align="center">
+  
+  
+<a href="https://gdsc.community.dev/universidad-nacional-de-ingenieria/"><img alt="Gráfico de actividades de DSC UNI" src="https://activity-graph.herokuapp.com/graph?username=GDSC-UNI&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
+  
+
+</div>
 <!---
 GDSC-UNI/GDSC-UNI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
