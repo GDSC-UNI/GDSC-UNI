@@ -7,7 +7,7 @@ Google. Los estudiantes de todos los programas de pregrado o postgrado con inter
 a nosotros, aumentarán sus conocimientos en un entorno de aprendizaje entre pares y crearán soluciones para las empresas y comunidades locales</p>
 
 
-✨Visite nuestra ![página web](https://gdsc.community.dev/universidad-nacional-de-ingenieria/)!
+✨Visite nuestra [página web](https://gdsc.community.dev/universidad-nacional-de-ingenieria/)!
 
 <h2> 🤗 Conectese con nosotros en ... </h2>
 
