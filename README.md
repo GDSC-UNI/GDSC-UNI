@@ -1,4 +1,4 @@
-![GDSC UNI banner](https://github.com/GDSC-UNI/GDSC-UNI/blob/main/GDSC-UNI-banner.jpg)
+![GDSC UNI banner](https://github.com/GDSC-UNI/GDSC-UNI/blob/main/GDSC-UNI-banner.png)
 
 <h2>Bienvenido a Google Developer Student CLub - UNI </h2>
 
@@ -10,13 +10,12 @@ a nosotros, aumentarán sus conocimientos en un entorno de aprendizaje entre par
 ✨Visite nuestra ![página web](https://gdsc.community.dev/universidad-nacional-de-ingenieria/)!
 
 <h2> 🤗 Conectese con nosotros en ... </h2>
-<center>
+
 <a href="#">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:gdsc.uni.pe@gmail.com">![gdsc.uni.pe@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="#">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 <a href="#">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 <a href="#">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-</center>
 
 
 <!---
