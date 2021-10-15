@@ -26,21 +26,6 @@ a nosotros, aumentarán sus conocimientos en un entorno de aprendizaje entre par
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="socials"/></a>
 </p>
 
-## Our Statistics
-<br>
-<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=gdscmuet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=gdscmuet&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
-</p>
-<hr>
-<div align="center">
-  
-  
-<a href="https://gdsc.community.dev/mehran-university-of-engineering-and-technology/"><img alt="DSC MUET's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gdscmuet&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
-  
-
-</div>
-
 
 <h2>Nuestras estadísticas</h2>
   <p align="center">
