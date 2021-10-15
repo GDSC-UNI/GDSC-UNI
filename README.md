@@ -1,6 +1,6 @@
 ![GDSC UNI banner](https://github.com/GDSC-UNI/GDSC-UNI/blob/main/GDSC-UNI-banner.png)
 
-<h2>Bienvenido a Google Developer Student CLub - UNI </h2>
+<h2>Bienvenido a Google Developer Student Club - UNI </h2>
 
 <p>Google Developer Student Club UNI es una comunidad para estudiantes universitarios interesados en las tecnologías desarrolladas por
 Google. Los estudiantes de todos los programas de pregrado o postgrado con interés en crecer como desarrolladores son bienvenidos. Al unirse
